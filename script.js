@@ -1,5 +1,5 @@
 
-    //var x = document.getElementById("result").innerHTML=
+   
    // x.innerHTML = ""
 //console.log(fromtemp)
 
