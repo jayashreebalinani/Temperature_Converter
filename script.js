@@ -1,4 +1,4 @@
-mp = document.getElementById("temp").value
+
     //var x = document.getElementById("result").innerHTML=
    // x.innerHTML = ""
 //console.log(fromtemp)
