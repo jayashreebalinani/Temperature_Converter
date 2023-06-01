@@ -1,10 +1,4 @@
 
-   
-   
-
-
-
-
 function change(){
 var fromtemp = document.getElementById("from").value
 var totemp = document.getElementById("to").value
