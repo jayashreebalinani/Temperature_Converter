@@ -12,7 +12,7 @@ if(fromtemp == "celsius" && totemp == "kelvin"){
     var data2 = oldtemp + 273;
     document.getElementById("result").value=data2
 }
-//hiii
+//hi
 if(fromtemp == "fahrenheit" && totemp == "celsius"){
     var data3 = ((oldtemp - 32)*5) / 9;
     document.getElementById("result").value=data3
