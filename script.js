@@ -30,3 +30,4 @@ if(fromtemp == "kelvin" && totemp == "fahrenheit"){
     document.getElementById("result").value=data6
 }
 }
+
